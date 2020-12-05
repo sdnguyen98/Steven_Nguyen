@@ -1,6 +1,7 @@
-## About me
+## Background
 
 I am a fourth year computer science student at Oregon State University.
+
 ## Projects
 
 [Capstone Project](https://github.com/sdnguyen98/miniPaint) 
