@@ -12,6 +12,6 @@ This project involved creating a particle system that followed some form of real
 
 
 ## Links
-[Linkedin](https://www.linkedin.com/in/grace-m-bullock/)
+[Linkedin](https://www.linkedin.com/in/steven-nguyen-70b683140/)
 
-[Github](https://github.com/bullocgr)
+[Github](https://github.com/sdnguyen98)
