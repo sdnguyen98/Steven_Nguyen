@@ -12,11 +12,11 @@ Currently working on this project with three other students to Create/fork an op
 
 [QR Code Generator](https://github.com/sdnguyen98/Qr-Code-Generator)
 
-A Qr code project I made which uses google authenticator on android or an ios device to generate an OTP (One Time Password) once you sync the authenticator with the program by scanning the qr code generated from the program.
+A Qr code project I made which uses google authenticator on android or an ios device to generate an OTP (One Time Password) once you sync the authenticator with the program by scanning the qr code generated from the program. The program is written in python.
 
 [Fotos](https://github.com/OSU-CS290-F18/final-project-cool-team)
 
-A website me and two other students created where you can post images and leave comments anonymously. Basically instagram and 4chan combined. I worked alot on the Html, and CSS of the website.
+A website me and two other students created where you can post images and leave comments anonymously. Basically instagram and 4chan combined. I worked alot on the Html, and CSS of the website. The website uses HTML, CSS, Javascript and mongoDB.
 
 ## Links
 [Linkedin](https://www.linkedin.com/in/steven-nguyen-70b683140/)
