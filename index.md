@@ -24,3 +24,5 @@ A website me and two other students created where you can post images and leave 
 [Github](https://github.com/sdnguyen98)
 
 [Resume](https://drive.google.com/file/d/18KXTczA6o4IEEKTPpGuCe8RzKNSwl7i1/view?usp=sharing)
+
+[Oral Defense & etc.](https://drive.google.com/drive/folders/1x27MG-Mf8VXOs-j4t9Rj4N4P2yRnaC_P?usp=sharing)
