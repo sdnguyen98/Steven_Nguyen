@@ -5,13 +5,11 @@ Outside of computer science, I am interested in fashion, playing basketball, wat
 
 ## Projects
 
-[Capstone Project](https://github.com/sdnguyen98/miniPaint) 
-
-My senior capstone project
+[imageEditor for Pixelscrapper](https://github.com/JordanMagnuson/miniPaint) 
+Currently working on this project with three other students to Create/fork an open source HTML5 image editor to be tailored to the specific needs of digital crafters, designed to integrate with a large online image repository.This is a javascript heavy project that will also involve crafting an API to allow the HTML5 app to interface with and query our website (PixelScrapper.com) in order to let users search for and pull in our hosted graphics directly from within the app.
 
 [QR Code Generator](https://github.com/sdnguyen98/Qr-Code-Generator)
-
-Qr code generator that works on with your phone.
+A Qr code project I made which uses google authenticator on android or an ios device to generate an OTP (One Time Password) once you sync the authenticator with the program by scanning the qr code generated from the program.
 
 [Fotos](https://github.com/OSU-CS290-F18/final-project-cool-team)
 
