@@ -16,7 +16,7 @@ A Qr code project I made which uses google authenticator on android or an ios de
 
 [Fotos](https://github.com/OSU-CS290-F18/final-project-cool-team)
 
-A website where you can post images and leave comments anonymously. Html, CSS, javascript, mongoDB
+A website me and two other students created where you can post images and leave comments anonymously. I worked alot on the Html, and CSS of the website.
 
 ## Links
 [Linkedin](https://www.linkedin.com/in/steven-nguyen-70b683140/)
