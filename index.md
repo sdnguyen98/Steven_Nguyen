@@ -1,6 +1,6 @@
 
 ## About me
-I am a fourth year computer science student at Oregon State University. Taking the applied security route. I have an interest in cyber security.
+I am a fourth year computer science student at Oregon State University. Taking the applied web development route. I have an interest in cyber security and web development. Currently working a Web Assistant Job at Oregon State University
 
 Outside of computer science I am interested in fashion, playing basketball, watching anime, playing video games, learning the guitar/piano, and meeting new people.
 
