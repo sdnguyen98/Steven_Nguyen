@@ -8,7 +8,10 @@ Outside of computer science I am interested in fashion, playing basketball, watc
 
 [imageEditor for Pixelscrapper](https://github.com/JordanMagnuson/miniPaint) 
 
-Currently working on this project with three other students to Create/fork an open source HTML5 image editor to be tailored to the specific needs of digital crafters, designed to integrate with a large online image repository.This is a javascript heavy project that will also involve crafting an API to allow the HTML5 app to interface with and query our website (PixelScrapper.com) in order to let users search for and pull in our hosted graphics directly from within the app.
+(https://www.digitalscrapbook.com/maker/ "Live Version being Hosted by pixelscrapper can be found here")
+Currently working on this project with three other students to Create/fork an open source HTML5 image editor to be tailored to the specific needs of digital crafters, designed to integrate with a large online image repository to create a digital scrapbooking program.This is a javascript heavy project that will also involve crafting an API to allow the HTML5 app to interface with and query our website (PixelScrapper.com) in order to let users search for and pull in our hosted graphics directly from within the app.
+
+My role for this team was specifically relating to New UI elements and overall styling of the application.
 
 [QR Code Generator](https://github.com/sdnguyen98/Qr-Code-Generator)
 
