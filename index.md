@@ -10,9 +10,7 @@ Outside of computer science I am interested in fashion, playing basketball, watc
 
 [Live Version being Hosted by pixelscrapper can be found here](https://www.digitalscrapbook.com/maker/)
 
-Currently working on this project with three other students to Create/fork an open source HTML5 image editor to be tailored to the specific needs of digital crafters, designed to integrate with a large online image repository to create a digital scrapbooking program.This is a javascript heavy project that will also involve crafting an API to allow the HTML5 app to interface with and query our website (PixelScrapper.com) in order to let users search for and pull in our hosted graphics directly from within the app.
-
-My role for this team was specifically relating to New UI elements and [overall styling](https://github.com/JordanMagnuson/miniPaint/tree/master/src/css) of the application. Example of work I've done for the team are things such as the [welcome screen](https://github.com/JordanMagnuson/miniPaint/blob/master/index.html)
+Currently working on this project with three other students to Create/fork an open source HTML5 image editor to be tailored to the specific needs of digital crafters, designed to integrate with a large online image repository to create a digital scrapbooking program.This is a javascript heavy project that will also involve crafting an API to allow the HTML5 app to interface with and query our website (PixelScrapper.com) in order to let users search for and pull in our hosted graphics directly from within the app. My role for this team was more focused on New UI elements and [overall styling](https://github.com/JordanMagnuson/miniPaint/tree/master/src/css) of the application another example of work I've done for the team is the [welcome screen](https://github.com/JordanMagnuson/miniPaint/blob/master/index.html)
 
 [QR Code Generator](https://github.com/sdnguyen98/Qr-Code-Generator)
 
